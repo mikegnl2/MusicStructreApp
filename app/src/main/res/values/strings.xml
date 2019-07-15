@@ -1,0 +1,16 @@
+<resources>
+    <!-- Title for the application. [CHAR LIMIT=12] -->
+    <string name="app_name">Music-Structure-App</string>
+
+    <!-- Category name for gospel [CHAR LIMIT=20] -->
+    <string name="category_gospel">Gospel</string>
+
+    <!-- Category name for RnB  [CHAR LIMIT=20] -->
+    <string name="category_rnb">RnB</string>
+
+    <!-- Category name for Country music  [CHAR LIMIT=20] -->
+    <string name="category_country">Country</string>
+
+    <!-- Category name for Raggae  [CHAR LIMIT=20] -->
+    <string name="category_reggae">Reggae</string>
+</resources>
